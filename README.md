@@ -48,7 +48,7 @@ Resultado a ser exibido:
 
 ### Resultado final:
 
-![Estrutura do Projeto](https://github.com/Paulo-RJR/projeto-banco-digital/blob/master/img_console/extrproj.png)
+![Resultado Dicionário](https://github.com/Paulo-RJR/desafios-2023/blob/master/img-executados/dicinario.png)
 
 ## 2º - Desafio - Cifra de César usando Java:
 
@@ -68,7 +68,7 @@ que faça sentido para este problema.
 
 ### Resultado final:
 
-![Estrutura do Projeto](https://github.com/Paulo-RJR/projeto-banco-digital/blob/master/img_console/extrproj.png)
+![Resultado Cifra de César](https://github.com/Paulo-RJR/desafios-2023/blob/master/img-executados/cifraCezar.png)
 
 ***
 
